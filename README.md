@@ -9,9 +9,7 @@ It is a client-server program, it is written so that as soon as a client opens i
 As client connections are made to the server, server will print out the address that it is connected to. Once all three clients are connected you can begin. As of right now the server will only listen for the next client in sequential order, when three has sent it will again be ready for one. This means that clients can send a message out of order, but it will not be received by the server or be responded to until the prior clients send and receive their message(s). The server takes the message received, turns it into all uppercase letters and sends it back. This is simply to demonstrate the server receiving a unique message, doing something with it and responding. 
 
 
-<!-- {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (you will need to show two pieces of software running and communicating with each other) and a walkthrough of the code.} -->
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Jr3EuGpEOOo)
 
 # Network Communication
 
